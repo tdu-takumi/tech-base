@@ -1,0 +1,36 @@
+/* mission_3のスタイルシート */
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+}
+.form_box {
+  margin: 10px;
+  padding: 5px;
+  border: solid 3px #efefef;
+  border-radius: 3px;
+}
+.insert_form {
+  margin-top: 20px;
+  padding: 0;
+}
+.delete_form {
+  margin-top: 20px;
+  padding: 0;
+}
+.edit_form {
+  margin: 20px 0;
+  padding: 0;
+}
+.submit_button {
+  background-color: #FFFFFF;
+  font-weight: 600;
+  border: solid 1px #EFEFEF;
+  border-radius: 5px;
+  box-shadow: 2px 2px #565656;
+}
